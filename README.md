@@ -5,6 +5,8 @@
 - *Graduação:* Cursando Analise e Desenvolvimento de Siestamas, Previsão de termino em 2026.
 
 
+### 💻 Full-Stack Developer 
+
 ### 📫 Contato
 
 <p align="left">
