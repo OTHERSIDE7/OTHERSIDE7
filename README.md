@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:othersidedj@yahoo.com.br" target="_blank" style="margin-right:8px">
+  <a href="mailto:josueschadler@proton.me" target="_blank" style="margin-right:8px">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   
